@@ -1,4 +1,4 @@
-<H1 align="center">LANDIO - A One stop solution for landing page template</H1>
+<H1 align="left">LANDIO - A One stop solution for landing page template</H1>
 
   Landio is a fully responsive landing page website, <br /> Responsive for all devices, build using HTML, CSS, and JavaScript.
 
